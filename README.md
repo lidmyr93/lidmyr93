@@ -35,14 +35,14 @@ Here are some ideas to get you started:
     width="40"	    
     height="40"	    
   />	  
- 
  <img	  
     src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
     width="40"
     height="40"
   />
-  </p>
+</p>
+  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidmyr93&show_icons=true&theme=dark" alt="lidmyr93toplangs"/>
  </p>
