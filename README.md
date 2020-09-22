@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="left">	
   <img
     src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"	    
@@ -44,5 +45,8 @@ Here are some ideas to get you started:
   </p>
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidmyr93&show_icons=true&theme=dark)]
+ </p>
+ <p>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lidmyr93&show_icons=true&theme=dark)
-</p>
+ </p>
+
