@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">	
    <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/js/js-original-wordmark.svg"	    
+    src="https://devicons.github.io/devicon/devicon.git/icons/js/js-original.svg"	    
     alt="react"	 
     width="40"	    
     height="40"	    
