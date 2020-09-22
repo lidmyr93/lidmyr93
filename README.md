@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     height="40"
   />
   </p>
-<div align="center">
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidmyr93&show_icons=true&theme=dark)]
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lidmyr93&show_icons=true&theme=dark)
-</div>
+</p>
