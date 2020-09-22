@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">	
- 
- 
   <img
     src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"	    
     alt="react"	 
