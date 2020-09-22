@@ -17,12 +17,26 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">	
-   <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/js/js-original.svg"	    
+ 
+ 
+  <img
+    src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"	    
     alt="react"	 
     width="40"	    
     height="40"	    
   />	  
+    <img
+    src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"	    
+    alt="react"	 
+    width="40"	    
+    height="40"	    
+  />
+    <img
+    src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"	    
+    alt="react"	 
+    width="40"	    
+    height="40"	    
+  />
   <img
     src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"	    
     alt="react"	 
