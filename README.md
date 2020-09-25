@@ -60,7 +60,11 @@ Here are some ideas to get you started:
     height="40"
   />
 </p>
-  
+<p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt=""/>
+ </a>
+</p>  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidmyr93&show_icons=true&theme=dark" alt="lidmyr93toplangs"/>
  </p>
