@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </p>
 <p>
  <a href="https://github.com/lidmyr93/bastu">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidmyr93&repo=bastu" alt=""/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidmyr93&repo=bastu&theme=dark" alt=""/>
  </a>
 </p>  
 <p align="center">
