@@ -61,8 +61,8 @@ Here are some ideas to get you started:
   />
 </p>
 <p>
- <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt=""/>
+ <a href="https://github.com/lidmyr93/bastu">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidmyr93&repo=bastu" alt=""/>
  </a>
 </p>  
 <p align="center">
