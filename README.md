@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </p>
 <p>
  <p>
- 🔭 I´m currently work on :point_down:
+ 🔭 I´m currently working on :point_down:
 </p>
  <a href="https://github.com/lidmyr93/bastu">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidmyr93&repo=bastu&theme=dark" alt=""/>
